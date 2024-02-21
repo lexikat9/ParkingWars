@@ -6,7 +6,7 @@
 // File headers
 #include <iostream> // allows us to do input and output (cin and cout)
 #include <cstdlib> // standard library
-#include <string> // allows us to do mathematical functionsuse strings
+#include <string> // allows us to use strings
 #include <unistd.h> // allows us to use clock
 #include <ctime> // allows us to do random number generation
 #include <fstream> // allows us to output a file
